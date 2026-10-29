@@ -1,0 +1,95 @@
+code,ECGs,% of ECGs,name in the official table,counted in task
+426177001,16525,36.68,SB sinus bradycardia,-
+426783006,8109,18.0,SR sinus rhythm,-
+164890007,8046,17.86,AF atrial flutter,-
+427084000,7236,16.06,ST sinus tachycardia,-
+164934002,7036,15.62,TWC T wave change,STTC
+55827005,5382,11.95,*** NOT IN THE TABLE ***,-
+55930002,4225,9.38,*** NOT IN THE TABLE ***,-
+59931005,2872,6.37,TWO T wave opposite,STTC
+427393009,2533,5.62,SA sinus irregularity,-
+164889003,1780,3.95,AFIB atrial fibrillation,-
+429622005,1666,3.7,STDD ST drop down,STTC
+39732003,1545,3.43,ALS axis left shift,-
+284470004,1310,2.91,APB atrial premature beats,-
+10370003,1177,2.61,*** NOT IN THE TABLE ***,-
+428750005,1158,2.57,STTC ST-T change,STTC
+270492004,1137,2.52,1AVB 1st degree AV block,CD
+713427006,1092,2.42,*** NOT IN THE TABLE ***,-
+427172004,1084,2.41,*** NOT IN THE TABLE ***,-
+164917005,1063,2.36,AQW abnormal Q wave,-
+251146004,1041,2.31,"LVQRSAL low QRS voltage, all leads",-
+47665007,851,1.89,ARS axis right shift,-
+164930006,799,1.77,STE ST extension,-
+698252002,770,1.71,IDC/IVB intraventricular block,CD
+426761007,724,1.61,SVT supraventricular tachycardia,-
+61721007,650,1.44,*** NOT IN THE TABLE ***,-
+59118001,649,1.44,RBBB right bundle branch block,CD
+164873001,645,1.43,LVH left ventricle hypertrophy,HYP
+365413008,635,1.41,*** NOT IN THE TABLE ***,-
+111975006,394,0.87,QTIE QT interval extension,-
+6374002,385,0.85,*** NOT IN THE TABLE ***,-
+445118002,380,0.84,*** NOT IN THE TABLE ***,-
+428417006,365,0.81,ERV early repolarization,-
+713422000,296,0.66,AT atrial tachycardia,-
+17338001,294,0.65,VPB ventricular premature beat,-
+713426002,246,0.55,*** NOT IN THE TABLE ***,-
+233917008,244,0.54,AVB AV block,-
+164909002,240,0.53,LBBB / LBBBB / LFBBB (LBBB and fascicular blocks),CD
+251223006,215,0.48,*** NOT IN THE TABLE ***,-
+106068003,215,0.48,*** NOT IN THE TABLE ***,-
+733534002,213,0.47,*** NOT IN THE TABLE ***,-
+164931005,176,0.39,STTU ST tilt up,-
+251199005,162,0.36,CCR counterclockwise rotation,-
+164912004,142,0.32,PWC P wave change,-
+29320008,139,0.31,*** NOT IN THE TABLE ***,-
+164937009,136,0.3,UW U wave,-
+164865005,123,0.27,MI / MIBW / MIFW / MILW / MISW myocardial infarction,MI
+13640000,116,0.26,VFW ventricular fusion wave,-
+89792004,110,0.24,RVH right ventricle hypertrophy,HYP
+425856008,109,0.24,*** NOT IN THE TABLE ***,-
+251205003,106,0.24,*** NOT IN THE TABLE ***,-
+81898007,96,0.21,*** NOT IN THE TABLE ***,-
+251198002,76,0.17,CR clockwise rotation,-
+27885002,76,0.17,3AVB 3rd degree AV block,CD
+426995002,75,0.17,JEB junctional escape beat,-
+74390002,72,0.16,WPW,CD
+195042002,66,0.15,2AVB 2nd degree AV block,CD
+251170000,62,0.14,*** NOT IN THE TABLE ***,-
+164896001,59,0.13,*** NOT IN THE TABLE ***,-
+50799005,59,0.13,*** NOT IN THE TABLE ***,-
+54329005,57,0.13,*** NOT IN THE TABLE ***,-
+75532003,55,0.12,VEB ventricular escape beat,-
+164947007,52,0.12,PRIE PR interval extension,-
+57054005,49,0.11,*** NOT IN THE TABLE ***,-
+446358003,36,0.08,RAH right atrial hypertrophy,HYP
+67751000119106,36,0.08,*** NOT IN THE TABLE ***,-
+5609005,33,0.07,*** NOT IN THE TABLE ***,-
+54016002,31,0.07,2AVB1 Mobitz I,CD
+233897008,26,0.06,AVRT,-
+426648003,24,0.05,*** NOT IN THE TABLE ***,-
+49578007,23,0.05,*** NOT IN THE TABLE ***,-
+251187003,17,0.04,*** NOT IN THE TABLE ***,-
+233892002,16,0.04,*** NOT IN THE TABLE ***,-
+251166008,16,0.04,*** NOT IN THE TABLE ***,-
+61277005,14,0.03,*** NOT IN THE TABLE ***,-
+426664006,12,0.03,*** NOT IN THE TABLE ***,-
+195060002,12,0.03,VPE ventricular preexcitation,-
+251164006,11,0.02,JPT junctional premature beat,-
+63593006,9,0.02,*** NOT IN THE TABLE ***,-
+446813000,8,0.02,*** NOT IN THE TABLE ***,-
+251180001,8,0.02,VET ventricular escape trigeminy,-
+111288001,7,0.02,*** NOT IN THE TABLE ***,-
+17366009,7,0.02,*** NOT IN THE TABLE ***,-
+426627000,7,0.02,*** NOT IN THE TABLE ***,-
+426183003,7,0.02,*** NOT IN THE TABLE ***,-
+251120003,6,0.01,*** NOT IN THE TABLE ***,-
+418818005,5,0.01,*** NOT IN THE TABLE ***,-
+65778007,5,0.01,*** NOT IN THE TABLE ***,-
+445211001,5,0.01,*** NOT IN THE TABLE ***,-
+251173003,3,0.01,ABI atrial bigeminy,-
+164942001,3,0.01,FQRS fQRS wave,-
+11157007,3,0.01,VB ventricular bigeminy,-
+195101003,2,0.0,WAVN / SAAWR wandering pacemaker,-
+77867006,2,0.0,*** NOT IN THE TABLE ***,-
+67741000119109,1,0.0,*** NOT IN THE TABLE ***,-

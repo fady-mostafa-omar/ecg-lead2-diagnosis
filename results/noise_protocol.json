@@ -1,0 +1,32 @@
+{
+ "source": "MIT-BIH Noise Stress Test Database (bw, em, ma), both channels, resampled 360 -> 100 Hz",
+ "train_part": "first 60% of each record",
+ "test_part": "last 40%",
+ "gap_s": 10,
+ "snr": "10*log10(P_ecg / P_noise), both on the 0.5-40 Hz band-passed 10-s strip",
+ "mix": "bw + em + ma at equal power",
+ "test_snr_db": [
+  24,
+  18,
+  12,
+  6,
+  0,
+  -6
+ ],
+ "train_snr_db": [
+  0.0,
+  24.0
+ ],
+ "train_noisy_fraction": 0.5,
+ "leads": [
+  "I",
+  "II"
+ ],
+ "same_noise_for_both_leads": true,
+ "seeds": {
+  "train_bank": 1,
+  "val_bank": 2,
+  "test_bank": 3,
+  "val_snr": 4
+ }
+}

@@ -1,0 +1,19 @@
+task,model,Chapman positives,AUC external,95% CI,"AUC external, gate-accepted",AUC internal (PTB-XL test),external minus internal
+NORM,12-lead,1326,0.963,0.958-0.968,,0.95,0.013
+NORM,"lead II, clean-trained",1326,0.935,0.928-0.942,,0.908,0.027
+NORM,"lead II, noise-trained",1326,0.934,0.927-0.940,0.934,0.907,0.027
+MI,12-lead,23,0.937,0.881-0.983,,0.928,0.009
+MI,"lead II, clean-trained",23,0.868,0.760-0.945,,0.835,0.033
+MI,"lead II, noise-trained",23,0.832,0.718-0.926,0.869,0.834,-0.002
+STTC,12-lead,2071,0.848,0.840-0.856,,0.942,-0.094
+STTC,"lead II, clean-trained",2071,0.817,0.808-0.826,,0.886,-0.069
+STTC,"lead II, noise-trained",2071,0.817,0.808-0.826,0.818,0.884,-0.067
+CD,12-lead,680,0.832,0.818-0.845,,0.929,-0.097
+CD,"lead II, clean-trained",680,0.828,0.816-0.841,,0.881,-0.053
+CD,"lead II, noise-trained",680,0.828,0.816-0.841,0.828,0.879,-0.051
+HYP,12-lead,177,0.936,0.920-0.952,,0.904,0.032
+HYP,"lead II, clean-trained",177,0.854,0.825-0.880,,0.811,0.043
+HYP,"lead II, noise-trained",177,0.849,0.818-0.876,0.86,0.81,0.039
+RBBB -> CRBBB,"lead II, 23 subclasses",151,0.916,0.895-0.936,,0.977,-0.061
+1AVB -> _AVB,"lead II, 23 subclasses",269,0.958,0.949-0.965,,0.969,-0.011
+LVH -> LVH,"lead II, 23 subclasses",147,0.891,0.864-0.917,,0.822,0.069

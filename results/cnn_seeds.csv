@@ -1,0 +1,16 @@
+config,seed,test macro AUC
+12-lead,0,0.921
+12-lead,1,0.9179
+12-lead,2,0.923
+12-lead,3,0.9225
+12-lead,4,0.9218
+lead II,0,0.8591
+lead II,1,0.8579
+lead II,2,0.8587
+lead II,3,0.8537
+lead II,4,0.8581
+lead I,0,0.8344
+lead I,1,0.8352
+lead I,2,0.834
+lead I,3,0.834
+lead I,4,0.8356

@@ -2,6 +2,11 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 data/
-*.ckpt
 *.pt
+!models/cnn_leadII_noise.pt
+!models/cnn_leadII_sub23.pt
+models/cnn_seeds/
+models/baseline_hgb.joblib
+.gradio/
+flagged/
 .env

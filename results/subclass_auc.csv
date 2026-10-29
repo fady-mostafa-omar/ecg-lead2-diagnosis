@@ -1,0 +1,16 @@
+superclass,subclass,meaning,test ECGs,AUC 12-lead,AUC lead II,AUC lead I,lead II - lead I,lead II - 12-lead
+MI,IMI,inferior MI,229,0.915,0.853,0.71,+0.142 (+0.107 to +0.182) *,-0.063 (-0.082 to -0.045) *
+MI,AMI,anterior MI,203,0.928,0.797,0.855,-0.059 (-0.088 to -0.031) *,-0.131 (-0.161 to -0.102) *
+STTC,STTC,ST/T change,204,0.918,0.846,0.82,+0.026 (-0.005 to +0.058),-0.071 (-0.094 to -0.050) *
+STTC,NST_,non-specific ST change,62,0.928,0.885,0.886,-0.001 (-0.048 to +0.046),-0.042 (-0.075 to -0.009) *
+STTC,ISC_,non-specific ischaemia,112,0.977,0.925,0.94,-0.015 (-0.039 to +0.011),-0.052 (-0.071 to -0.035) *
+STTC,ISCA,"ischaemia, anterior leads",77,0.956,0.865,0.944,-0.078 (-0.114 to -0.046) *,-0.090 (-0.127 to -0.060) *
+STTC,ISCI,"ischaemia, inferior leads",27,0.906,0.962,0.742,+0.217 (+0.140 to +0.300) *,+0.055 (+0.018 to +0.100) *
+CD,LAFB/LPFB,left fascicular block,130,0.961,0.955,0.765,+0.191 (+0.142 to +0.244) *,-0.006 (-0.022 to +0.008)
+CD,IRBBB,incomplete RBBB,90,0.933,0.753,0.702,+0.052 (-0.003 to +0.107),-0.180 (-0.224 to -0.136) *
+CD,_AVB,AV block,46,0.909,0.899,0.867,+0.033 (-0.015 to +0.078),-0.009 (-0.045 to +0.023)
+CD,IVCD,non-specific intraventricular block,72,0.751,0.713,0.746,-0.033 (-0.102 to +0.035),-0.039 (-0.094 to +0.017)
+CD,CRBBB,complete RBBB,27,0.999,0.985,0.999,-0.014 (-0.025 to -0.007) *,-0.014 (-0.024 to -0.007) *
+CD,CLBBB,complete LBBB,47,0.999,0.993,0.999,-0.006 (-0.013 to -0.001) *,-0.005 (-0.012 to -0.001) *
+HYP,LVH,left ventricular hypertrophy,200,0.94,0.821,0.846,-0.025 (-0.060 to +0.011),-0.119 (-0.148 to -0.092) *
+HYP,LAO/LAE,left atrial enlargement,27,0.679,0.723,0.61,+0.114 (+0.036 to +0.185) *,+0.044 (-0.013 to +0.105)

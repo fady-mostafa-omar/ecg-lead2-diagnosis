@@ -1,0 +1,16 @@
+subclass,meaning,n,lead I,lead II,I + II,II + V1,II + V2,II + V5,12-lead
+IMI,inferior MI,229,0.711,0.848,0.907,0.88,0.845,0.869,0.907
+AMI,anterior MI,203,0.855,0.798,0.836,0.881,0.942,0.832,0.932
+STTC,ST/T change,204,0.815,0.848,0.885,0.864,0.872,0.9,0.918
+NST_,non-specific ST change,62,0.887,0.88,0.927,0.899,0.884,0.912,0.925
+ISC_,non-specific ischaemia,112,0.938,0.925,0.961,0.941,0.947,0.967,0.977
+ISCA,"ischaemia, anterior leads",77,0.944,0.869,0.935,0.884,0.897,0.932,0.952
+ISCI,"ischaemia, inferior leads",27,0.739,0.961,0.924,0.958,0.95,0.93,0.899
+LAFB/LPFB,left fascicular block,130,0.759,0.955,0.969,0.951,0.948,0.956,0.959
+IRBBB,incomplete RBBB,90,0.709,0.761,0.764,0.936,0.887,0.737,0.922
+_AVB,AV block,46,0.852,0.893,0.871,0.898,0.905,0.9,0.912
+IVCD,non-specific intraventricular block,72,0.746,0.71,0.751,0.746,0.74,0.743,0.747
+CRBBB,complete RBBB,27,0.999,0.983,0.999,0.999,0.986,0.992,0.999
+CLBBB,complete LBBB,47,0.999,0.992,0.999,0.997,0.998,0.998,0.999
+LVH,left ventricular hypertrophy,200,0.848,0.822,0.887,0.86,0.835,0.885,0.937
+LAO/LAE,left atrial enlargement,27,0.594,0.723,0.684,0.686,0.696,0.691,0.687

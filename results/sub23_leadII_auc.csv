@@ -1,0 +1,18 @@
+superclass,subclass,meaning,test ECGs,AUC,95% CI
+NORM,NORM,normal ECG,963,0.905,0.893-0.917
+MI,IMI,inferior MI,327,0.878,0.857-0.899
+MI,AMI,anterior MI,306,0.806,0.780-0.832
+MI,LMI,lateral MI,20,0.672,0.534-0.799
+STTC,STTC,ST/T change,222,0.84,0.815-0.866
+STTC,NST_,non-specific ST change,77,0.831,0.796-0.863
+STTC,ISC_,non-specific ischaemia,128,0.898,0.873-0.920
+STTC,ISCA,"ischaemia, anterior leads",93,0.833,0.793-0.871
+STTC,ISCI,"ischaemia, inferior leads",40,0.909,0.865-0.942
+CD,LAFB/LPFB,left fascicular block,179,0.955,0.932-0.975
+CD,IRBBB,incomplete RBBB,112,0.801,0.761-0.836
+CD,_AVB,AV block,82,0.969,0.957-0.980
+CD,IVCD,non-specific intraventricular block,79,0.737,0.672-0.796
+CD,CRBBB,complete RBBB,54,0.977,0.965-0.987
+CD,CLBBB,complete LBBB,54,0.989,0.978-0.996
+HYP,LVH,left ventricular hypertrophy,214,0.822,0.793-0.852
+HYP,LAO/LAE,left atrial enlargement,42,0.845,0.792-0.895

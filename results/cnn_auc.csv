@@ -1,0 +1,10 @@
+config,model,macro AUC,NORM,MI,STTC,CD,HYP
+12-lead,"CNN, single (mean ± SD, 5 seeds)",0.921 ± 0.002,,,,,
+12-lead,"CNN, 5-seed ensemble",0.931,0.95,0.928,0.942,0.929,0.904
+12-lead,Gradient boosting (Step 3.2),0.909,0.929,0.905,0.924,0.904,0.884
+lead II,"CNN, single (mean ± SD, 5 seeds)",0.858 ± 0.002,,,,,
+lead II,"CNN, 5-seed ensemble",0.864,0.908,0.835,0.886,0.881,0.811
+lead II,Gradient boosting (Step 3.2),0.828,0.875,0.777,0.863,0.846,0.78
+lead I,"CNN, single (mean ± SD, 5 seeds)",0.835 ± 0.001,,,,,
+lead I,"CNN, 5-seed ensemble",0.839,0.889,0.794,0.877,0.826,0.81
+lead I,Gradient boosting (Step 3.2),0.823,0.872,0.764,0.868,0.803,0.809
